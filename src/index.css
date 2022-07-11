@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background-image: url(https://images4.alphacoders.com/600/600599.jpg);
+  background-position: cover;
+  backface-visibility: hidden;
+}
+
+.head {
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(124, 108, 85);
+}
+
+.nom {
+  color: black;
+  font-weight: bolder;
+  margin-left: 50px;
+  text-decoration: underline;
+}
+.titre {
+  color: black;
+  margin: 20px;
+}
+
+.Div1 {
+  margin-bottom: 190px;
+}
+
+
+th, td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  border: 1px solid black;
+  
+}
+
+thead th {
+  width: 25%;
+  color: rgb(100, 15, 101);
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 8px;
+}
+
+thead th {
+  width: 25%;
+}
+
